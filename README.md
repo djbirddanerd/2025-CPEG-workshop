@@ -1,4 +1,5 @@
 # Palaeoverse Workshop Template
+KDB´s apocalyptic take on CPEG 2025 Workshop - Building Open Data Science Skills in Paleobiology and Ecology Workshop based on local clone
 
 ## Purpose
 
